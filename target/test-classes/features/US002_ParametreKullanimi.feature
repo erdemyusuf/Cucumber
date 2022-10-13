@@ -11,6 +11,7 @@ Feature: US002 Parametre Kullanimi
     And sonuclarin "Nutella" icerdigini test eder
     And sayfayi kapatir
 
+    @grup2
     Scenario: TC02 kullanici amazonda parametreli arama yapar
       Then kullanici "Selenium" icin arama yapar
       And  sonuclarin "Selenium" icerdigini test eder

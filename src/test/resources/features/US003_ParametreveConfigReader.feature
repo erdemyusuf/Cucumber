@@ -7,6 +7,7 @@
       Then sonuclarin "Nutella" icerdigini test eder
       And sayfayi kapatir
 
+      @grup2
       Scenario: TC01 Parametre kullaniminda ConfigReader kullanimi
         Given kullanici "facebookUrl" sayfasina gider
         Then  kullanici 3 sn bekler
