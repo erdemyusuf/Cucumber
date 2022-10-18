@@ -8,5 +8,6 @@ stepDefinitions\PracticeAmazonStepDef.class
 utilities\ReusableMethods.class
 pages\PracticeTC07Page.class
 stepDefinitions\BlueRentACarStepDefinition.class
+stepDefinitions\Hooks.class
 pages\PracticeTestPage.class
 stepDefinitions\GuruStepDefinition.class
